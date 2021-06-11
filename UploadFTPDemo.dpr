@@ -1,8 +1,8 @@
-program GhorbaniUploadFTP;
+program UploadFTPDemo;
 
 uses
   Forms,
-  Unit1 in 'G:\Del123 Collection of Delphi Example with Source Code\Demos\11\Source\XE\Unit1.pas' {Form1};
+  Unit1 in 'Unit1.pas' {Form1};
 
 {$R *.res}
 
